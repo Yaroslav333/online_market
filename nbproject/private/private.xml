@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/models/Product.php</file>
+            <file>file:/C:/xampp/htdocs/views/site/index.php</file>
+            <file>file:/C:/xampp/htdocs/controllers/SiteController.php</file>
+            <file>file:/C:/xampp/htdocs/models/User.php</file>
+            <file>file:/C:/xampp/htdocs/views/layouts/header.php</file>
+            <file>file:/C:/xampp/htdocs/components/Autoload.php</file>
+            <file>file:/C:/xampp/htdocs/index.php</file>
+            <file>file:/C:/xampp/htdocs/components/Router.php</file>
+            <file>file:/C:/xampp/htdocs/views/cabinet/index.php</file>
+            <file>file:/C:/xampp/htdocs/controllers/ProductController.php</file>
+            <file>file:/C:/xampp/htdocs/views/catalog/catalog.php</file>
+            <file>file:/C:/xampp/htdocs/controllers/CartController.php</file>
+            <file>file:/C:/xampp/htdocs/config/routes.php</file>
+            <file>file:/C:/xampp/htdocs/controllers/CatalogController.php</file>
+            <file>file:/C:/xampp/htdocs/views/catalog/category.php</file>
+            <file>file:/C:/xampp/htdocs/views/catalog/index.php</file>
+            <file>file:/C:/xampp/htdocs/components/Cart.php</file>
+            <file>file:/C:/xampp/htdocs/views/user/login.php</file>
+            <file>file:/C:/xampp/htdocs/views/user/register.php</file>
+            <file>file:/C:/xampp/htdocs/controllers/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/views/product/view.php</file>
+            <file>file:/C:/xampp/htdocs/models/Category.php</file>
+            <file>file:/C:/xampp/htdocs/controllers/CabinetController.php</file>
+            <file>file:/C:/xampp/htdocs/components/Pagination.php</file>
+            <file>file:/C:/xampp/htdocs/views/cart/index.php</file>
+            <file>file:/C:/xampp/htdocs/views/layouts/footer.php</file>
+        </group>
+    </open-files>
+</project-private>
